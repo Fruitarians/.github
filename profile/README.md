@@ -22,7 +22,7 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 
 | Name                         | Bangkit ID    | GitHub                | LinkedIn                          |
 |------------------------------|---------------|-----------------------|-----------------------------------|
-| Taufik Satria Nugraha        | M210DSX3718   | [github-follow](https://github.com/taufiksatrian) | [linkedin](https://linkedin.com/in/username)      |
+| Taufik Satria Nugraha        | M210DSX3718   | [github-follow](https://github.com/taufiksatrian) | [linkedin](https://www.linkedin.com/in/taufiksatrianugraha/)      |
 | Muzakki Abdillah             | M309DSX0418   | [github-follow](https://github.com/muzakkiabdillah123) | [linkedin](https://linkedin.com/in/username)      |
 | Muhammad Althaaf Abqary      | A210DSX3159   | [github-follow](https://github.com/taftaabqary) | [linkedin](https://linkedin.com/in/muhammad-althaaf-abqary-2000151b7)      |
 | Felda Putri Widya Rachmawati | A136DKY4455   | [github-follow](https://github.com/username) | [linkedin](https://linkedin.com/in/username)      |
