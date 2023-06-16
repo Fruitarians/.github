@@ -14,7 +14,7 @@ Our project combines the power of computer vision, machine learning, and e-comme
 
 ## 🌍 Why It Matters
 
-In today's fast-paced world, people are becoming increasingly conscious about their health and nutrition. By providing a seamless way to identify and access fresh fruits, our project aims to promote healthy eating habits and make it easier for individuals to incorporate nutritious fruits into their daily lives. We believe that a well-informed consumer is an empowered consumer, and our solution empowers people to make healthier choices.
+In today's fast-paced world, people are becoming increasingly conscious of their health and nutrition. By providing an easy way to identify and access fresh fruits, our project aims to promote healthy eating habits and make it easier for individuals to incorporate nutritious fruits into their daily lives. We believe that a well-informed consumer is an empowered consumer, and our solutions empower people to make healthier and more informed choices.
 
 ## 👥 Meet Our Extraordinary Team
 
@@ -25,7 +25,7 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 | Machine Learning        | M210DSX3718   | [Taufik Satria Nugraha](https://github.com/taufiksatrian) | [Taufik Satria Nugraha](https://www.linkedin.com/in/taufiksatrianugraha/)      |
 | Machine Learning             | M309DSX0418   | [Muzakki Abdillah](https://github.com/muzakkiabdillah123) | [Muzakki Abdillah](https://www.linkedin.com/in/muzakki-abdillah-386374193/)      |
 | Mobile Development      | A210DSX3159   | [Muhammad Althaaf Abqary](https://github.com/taftaabqary) | [Muhammad Althaaf Abqary](https://linkedin.com/in/muhammad-althaaf-abqary-2000151b7)      |
-| Mobile Development | A136DKY4455   | [Felda Putri Widya R](https://github.com/putrifelda) | [Felda Putri Widya Rachmawati](https://www.linkedin.com/in/felda-putri-widya-rachmawati-77942122a/)      |
+| Mobile Development | A136DKY4455   | [Felda Putri Widya Rachmawati](https://github.com/putrifelda) | [Felda Putri Widya Rachmawati](https://www.linkedin.com/in/felda-putri-widya-rachmawati-77942122a/)      |
 | Cloud Computing    | C210DSX1677   | [Kelana Chandra Helyandika](https://github.com/momokii) | [Kelana Chandra Helyandika](https://www.linkedin.com/in/kelanach/)      |
 | Cloud Computing      | C265DSX3526   | [Muhammad Arif Ramadhani](https://github.com/ariframadhan01) | [Muhammad Arif Ramadhani](https://www.linkedin.com/in/muhammadariframadhani/)      |
 
