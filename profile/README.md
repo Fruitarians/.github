@@ -45,7 +45,7 @@ We welcome collaboration and contributions from the community! Whether you're a 
 
 Have questions, ideas, or just want to say hello? Reach out to us through the following channels:
 
-- Email: team@example.com
+- Email: fruitarians.bangkit@gmail.com
 
 Let's embark on this fruitful journey together! 🍓🍍🥭✨
 
