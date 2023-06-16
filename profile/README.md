@@ -25,9 +25,9 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 | Taufik Satria Nugraha        | M210DSX3718   | [github-follow](https://github.com/taufiksatrian) | [linkedin](https://www.linkedin.com/in/taufiksatrianugraha/)      |
 | Muzakki Abdillah             | M309DSX0418   | [github-follow](https://github.com/muzakkiabdillah123) | [linkedin](https://linkedin.com/in/username)      |
 | Muhammad Althaaf Abqary      | A210DSX3159   | [github-follow](https://github.com/taftaabqary) | [linkedin](https://linkedin.com/in/muhammad-althaaf-abqary-2000151b7)      |
-| Felda Putri Widya Rachmawati | A136DKY4455   | [github-follow](https://github.com/username) | [linkedin](https://linkedin.com/in/username)      |
-| Kelana Chandra Helyandika    | C210DSX1677   | [github-follow](https://github.com/username) | [linkedin](https://linkedin.com/in/username)      |
-| Muhammad Arif Ramadhani      | C265DSX3526   | [github-follow](https://github.com/username) | [linkedin](https://linkedin.com/in/username)      |
+| Felda Putri Widya Rachmawati | A136DKY4455   | [github-follow](https://github.com/putrifelda) | [linkedin](https://www.linkedin.com/in/felda-putri-widya-rachmawati-77942122a/)      |
+| Kelana Chandra Helyandika    | C210DSX1677   | [github-follow](https://github.com/momokii) | [linkedin](https://www.linkedin.com/in/kelanach/)      |
+| Muhammad Arif Ramadhani      | C265DSX3526   | [github-follow](https://github.com/ariframadhan01) | [linkedin](https://www.linkedin.com/in/muhammadariframadhani/)      |
 
 ## 🚀 Project Branches
 
