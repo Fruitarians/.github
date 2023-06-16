@@ -23,7 +23,7 @@ Let us introduce you to the masterminds behind this groundbreaking project. Each
 | Learning Path                         | Bangkit ID    | GitHub Link                | LinkedIn Link                          |
 |------------------------------|---------------|-----------------------|-----------------------------------|
 | Machine Learning        | M210DSX3718   | [Taufik Satria Nugraha](https://github.com/taufiksatrian) | [Taufik Satria Nugraha](https://www.linkedin.com/in/taufiksatrianugraha/)      |
-| Machine Learning             | M309DSX0418   | [Muzakki Abdillah](https://github.com/muzakkiabdillah123) | [Muzakki Abdillah](https://linkedin.com/in/username)      |
+| Machine Learning             | M309DSX0418   | [Muzakki Abdillah](https://github.com/muzakkiabdillah123) | [Muzakki Abdillah](https://www.linkedin.com/in/muzakki-abdillah-386374193/)      |
 | Mobile Development      | A210DSX3159   | [Muhammad Althaaf Abqary](https://github.com/taftaabqary) | [Muhammad Althaaf Abqary](https://linkedin.com/in/muhammad-althaaf-abqary-2000151b7)      |
 | Mobile Development | A136DKY4455   | [Felda Putri Widya Rachmawati](https://github.com/putrifelda) | [Felda Putri Widya Rachmawati](https://www.linkedin.com/in/felda-putri-widya-rachmawati-77942122a/)      |
 | Cloud Computing    | C210DSX1677   | [Kelana Chandra Helyandika](https://github.com/momokii) | [Kelana Chandra Helyandika](https://www.linkedin.com/in/kelanach/)      |
