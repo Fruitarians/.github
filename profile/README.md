@@ -20,14 +20,14 @@ In today's fast-paced world, people are becoming increasingly conscious about th
 
 Let us introduce you to the masterminds behind this groundbreaking project. Each team member brings their unique expertise, unwavering dedication, and a shared passion for making a real impact.
 
-| Name                         | Bangkit ID    | GitHub                | LinkedIn                          |
+| Learning Path                         | Bangkit ID    | GitHub Link                | LinkedIn Link                          |
 |------------------------------|---------------|-----------------------|-----------------------------------|
-| Taufik Satria Nugraha        | M210DSX3718   | [github-follow](https://github.com/taufiksatrian) | [linkedin](https://www.linkedin.com/in/taufiksatrianugraha/)      |
-| Muzakki Abdillah             | M309DSX0418   | [github-follow](https://github.com/muzakkiabdillah123) | [linkedin](https://linkedin.com/in/username)      |
-| Muhammad Althaaf Abqary      | A210DSX3159   | [github-follow](https://github.com/taftaabqary) | [linkedin](https://linkedin.com/in/muhammad-althaaf-abqary-2000151b7)      |
-| Felda Putri Widya Rachmawati | A136DKY4455   | [github-follow](https://github.com/putrifelda) | [linkedin](https://www.linkedin.com/in/felda-putri-widya-rachmawati-77942122a/)      |
-| Kelana Chandra Helyandika    | C210DSX1677   | [github-follow](https://github.com/momokii) | [linkedin](https://www.linkedin.com/in/kelanach/)      |
-| Muhammad Arif Ramadhani      | C265DSX3526   | [github-follow](https://github.com/ariframadhan01) | [linkedin](https://www.linkedin.com/in/muhammadariframadhani/)      |
+| Machine Learning        | M210DSX3718   | [Taufik Satria Nugraha](https://github.com/taufiksatrian) | [Taufik Satria Nugraha](https://www.linkedin.com/in/taufiksatrianugraha/)      |
+| Machine Learning             | M309DSX0418   | [Muzakki Abdillah](https://github.com/muzakkiabdillah123) | [Muzakki Abdillah](https://linkedin.com/in/username)      |
+| Mobile Development      | A210DSX3159   | [Muhammad Althaaf Abqary](https://github.com/taftaabqary) | [Muhammad Althaaf Abqary](https://linkedin.com/in/muhammad-althaaf-abqary-2000151b7)      |
+| Mobile Development | A136DKY4455   | [Felda Putri Widya Rachmawati](https://github.com/putrifelda) | [Felda Putri Widya Rachmawati](https://www.linkedin.com/in/felda-putri-widya-rachmawati-77942122a/)      |
+| Cloud Computing    | C210DSX1677   | [Kelana Chandra Helyandika](https://github.com/momokii) | [Kelana Chandra Helyandika](https://www.linkedin.com/in/kelanach/)      |
+| Cloud Computing      | C265DSX3526   | [Muhammad Arif Ramadhani](https://github.com/ariframadhan01) | [Muhammad Arif Ramadhani](https://www.linkedin.com/in/muhammadariframadhani/)      |
 
 ## 🚀 Project Branches
 
@@ -45,7 +45,7 @@ We welcome collaboration and contributions from the community! Whether you're a 
 
 Have questions, ideas, or just want to say hello? Reach out to us through the following channels:
 
-- Email: team@example.com
+- Email: fruitarians.bangkit@gmail.com
 
 Let's embark on this fruitful journey together! 🍓🍍🥭✨
 
