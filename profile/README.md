@@ -6,7 +6,7 @@
 
 Hello there! 👋 Welcome to the fantastic world of team C23-PS448! We are a group of passionate individuals on a mission to revolutionize the Food Accessibility, Agribusiness, and Food Security industry. 
 
-![Project Showcase](illust3.png)
+![Project Showcase](DemoFruitariansApp.gif)
 
 ## 🍓 Project Overview
 
